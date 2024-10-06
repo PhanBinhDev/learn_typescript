@@ -2,7 +2,10 @@ import './style.css'
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
-import './tutorial.ts'
+// import './tutorial.ts'
+// import './b2.ts'
+// import './b3.ts'
+import './b4.ts'
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
     <a href="https://vitejs.dev" target="_blank">
